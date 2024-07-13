@@ -463,6 +463,9 @@ margin-bottom: 8px;
 
 .portfolio-item:hover .p-overlay {
     transform: translateY(0%);
+    box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
+        0px 1px 1px rgba(46, 47, 66, 0.16),
+        0px 2px 1px rgba(46, 47, 66, 0.08);
    
 }
 
@@ -482,6 +485,7 @@ text-transform: uppercase;
 color: #4d5ae5;;
 display: inline-block;
     margin-bottom: 16px;
+   
 }
 
 .logo-component {
@@ -500,6 +504,7 @@ font-weight: 400;
 
 .div-media {
     margin-right: 120px;
+
     }
 
 .media-text {
@@ -521,6 +526,7 @@ font-weight: 500;
     justify-content: center;
     align-items: center;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    
 }
 
 .footer-media {
@@ -528,6 +534,7 @@ display: flex;
     justify-content: center;
     align-items: center;
     gap: 16px;
+    
 }
 .footer-media .icon {
     fill: #f4f4fd;
