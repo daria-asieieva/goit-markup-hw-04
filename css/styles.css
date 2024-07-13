@@ -541,4 +541,9 @@ display: flex;
 
 .footer-wrapper {
     display: flex;
+    align-items: baseline;
+}
+
+.a-foooter {
+    margin-right: 120px;
 }
