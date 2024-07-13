@@ -538,3 +538,7 @@ display: flex;
     background-color: #31d0aa;
 }
 
+
+.footer-wrapper {
+    display: flex;
+}
