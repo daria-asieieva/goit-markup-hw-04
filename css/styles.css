@@ -223,6 +223,7 @@ margin-bottom: 8px;
 .quality {
    
     padding: 120px 0;
+    margin: 0 auto;
     
 }
 .quality-container {
@@ -240,7 +241,7 @@ margin-bottom: 8px;
 }
 
 .quality-item {
-height: 104px;
+
     width: calc((100% - 72px) / 4);
     
 }
